@@ -5,7 +5,3 @@ teste this
 
 asd
 asd
-asd
-asd
-asd
-asd
